@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Talel Krimi</h1>
+<h3 align="center">Cloud Builder </h3>
+<h3 align="center">Rising Gamer</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/talelkrimi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminekaabachi" height="20" width="20" /></a>
+
+</p>
 <!--
 **krimitalel/krimitalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
